@@ -21,7 +21,6 @@
 [![csharp](https://user-images.githubusercontent.com/9213496/100454535-5444ea00-30d2-11eb-8047-a98c45bf2a50.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![git_96px](https://user-images.githubusercontent.com/9213496/100453292-fadbbb80-30cf-11eb-9730-f16051fe2e2f.png)](https://git-scm.com)
 [![github_96px](https://user-images.githubusercontent.com/9213496/100454737-c289ac80-30d2-11eb-8dfd-186678751153.png)](https://github.com)
-[![handy](https://user-images.githubusercontent.com/9213496/100454706-b3a2fa00-30d2-11eb-9e6d-8d4d8f3a4e44.png)](https://github.com/HandyOrg)
 [![java_96px](https://user-images.githubusercontent.com/9213496/100453302-fc0ce880-30cf-11eb-865f-d20c961f7997.png)](https://www.java.com/en/)
 [![linux_96px](https://user-images.githubusercontent.com/9213496/100453313-fd3e1580-30cf-11eb-9880-3b6b268d663c.png)](https://www.linux.org/)
 [![net](https://user-images.githubusercontent.com/9213496/100454540-560ead80-30d2-11eb-8291-225f05f267f5.png)](https://github.com/dotnet/core)
@@ -33,4 +32,4 @@
 [![visual_studio_code_2019_96px](https://user-images.githubusercontent.com/9213496/100453343-029b6000-30d0-11eb-9f35-ddceaa73e0b1.png)](https://visualstudio.microsoft.com/)
 [![wordpress_96px](https://user-images.githubusercontent.com/9213496/100453347-03cc8d00-30d0-11eb-90f6-dde0e5a6136c.png)](https://wordpress.org/download/)
 [![adobe_photoshop_96px](https://user-images.githubusercontent.com/9213496/100453274-f6af9e00-30cf-11eb-9007-d7264c399f8f.png)](https://www.adobe.com/products/photoshop.html)
-[![csharp](https://user-images.githubusercontent.com/9213496/100454535-5444ea00-30d2-11eb-8047-a98c45bf2a50.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![handy](https://user-images.githubusercontent.com/9213496/100454706-b3a2fa00-30d2-11eb-9e6d-8d4d8f3a4e44.png)](https://github.com/HandyOrg)
