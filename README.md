@@ -1,20 +1,22 @@
 <h1 align="center"> Hi There 👋 I'm xianyun666</h1>
 
 - 👨‍💻 I’m currently Developing PHP and C#/WPF
-- 🤙 How to reach me: 
-     :heavy_check_mark: Email: 1040063186@qq.com
-<a href="https://github.com/xianyun666">
+- 🤙 How to reach me:
+  :heavy_check_mark: Email: 1040063186@qq.com
+  <a href="https://github.com/xianyun666">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xianyun666&show_icons=true&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/xianyun666">
+  </a>
+  <a href="https://github.com/xianyun666">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianyun666&layout=compact&langs_count=12&hide=html,css" />
-</a>
+  </a>
 
 
 <br>
 <br>
 
 <br>
+
+[![php](https://user-images.githubusercontent.com/22339210/109588095-26dd6180-7b43-11eb-8f9d-c35c580a7820.png)](https://www.php.net//)
 [![csharp](https://user-images.githubusercontent.com/9213496/100454535-5444ea00-30d2-11eb-8047-a98c45bf2a50.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![git_96px](https://user-images.githubusercontent.com/9213496/100453292-fadbbb80-30cf-11eb-9730-f16051fe2e2f.png)](https://git-scm.com)
 [![github_96px](https://user-images.githubusercontent.com/9213496/100454737-c289ac80-30d2-11eb-8dfd-186678751153.png)](https://github.com)
@@ -30,4 +32,5 @@
 [![visual_studio_code_2019_96px](https://user-images.githubusercontent.com/9213496/100453343-029b6000-30d0-11eb-9f35-ddceaa73e0b1.png)](https://visualstudio.microsoft.com/)
 [![wordpress_96px](https://user-images.githubusercontent.com/9213496/100453347-03cc8d00-30d0-11eb-90f6-dde0e5a6136c.png)](https://wordpress.org/download/)
 [![xaml_96px](https://user-images.githubusercontent.com/9213496/100453354-04652380-30d0-11eb-87de-a577acd2f62f.png)](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/fundamentals/xaml?view=netdesktop-5.0)
-[![adobe_photoshop_96px](https://user-images.githubusercontent.com/9213496/100453274-f6af9e00-30cf-11eb-9007-d7264c399f8f.png)](https://www.adobe.com/products/photoshop.html) 
+[![adobe_photoshop_96px](https://user-images.githubusercontent.com/9213496/100453274-f6af9e00-30cf-11eb-9007-d7264c399f8f.png)](https://www.adobe.com/products/photoshop.html)
+[![csharp](https://user-images.githubusercontent.com/9213496/100454535-5444ea00-30d2-11eb-8047-a98c45bf2a50.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
